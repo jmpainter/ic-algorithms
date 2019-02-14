@@ -23,3 +23,6 @@ function dutchFlag(arr, index) {
 }
 
 console.log(dutchFlag([3, 5, 2, 6, 8, 4, 4, 6, 4, 4, 3], 5));
+console.log(dutchFlag([3], 0));
+console.log(dutchFlag([3, 5, 2, 6, 8, 4, 6, 5, 5, 3], 5));
+console.log(dutchFlag([2, 1], 1));
