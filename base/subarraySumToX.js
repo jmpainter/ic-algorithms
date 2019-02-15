@@ -1,5 +1,4 @@
 function subarraySumToX(array, x) {
-  debugger;
   let start = 0;
   let end = 0;
   let sum = array[0];
